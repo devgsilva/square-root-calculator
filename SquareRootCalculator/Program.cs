@@ -1,9 +1,13 @@
 ﻿using System;
 
-class Program
+namespace SquareRootCalculator
 {
-    static void Main(string[] args)
+    class MathSquareRoot
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
+
 }
